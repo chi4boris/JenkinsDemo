@@ -1,2 +1,2 @@
-This is a simple fiole
+This is a simple file
 created for jenkins demo
